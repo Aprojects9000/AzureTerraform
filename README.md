@@ -1,0 +1,1 @@
+This repository will hold all files of the Alan Rodrigues Azure Terraform project. 
