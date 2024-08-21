@@ -1,6 +1,6 @@
 # IaC Terraform project. 
 
-This is a follow along of Alan Rodrigues' project [Azure Infrastructure with Terraform](https://www.youtube.com/playlist?list=PLLc2nQDXYMHowSZ4Lkq2jnZ0gsJL3ArAw). It is meant as a personal learning method and to hopefully help anyone else that's following along with Alan's project. 
+This is a follow along of Alan Rodrigues' project [Azure Infrastructure with Terraform](https://www.youtube.com/playlist?list=PLLc2nQDXYMHowSZ4Lkq2jnZ0gsJL3ArAw). It is meant as a personal learning tool and to hopefully help anyone else that's following along with Alan's project. 
 
 ## Table of Contents
 
