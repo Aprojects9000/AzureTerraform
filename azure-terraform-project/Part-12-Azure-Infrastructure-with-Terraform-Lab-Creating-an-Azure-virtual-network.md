@@ -1,4 +1,4 @@
-# Terraform - Azure - 12: Azure Infrastructure with Terraform - Lab - Creating an Azure virtual network
+# Terraform - Azure - Part 12: Azure Infrastructure with Terraform - Lab - Creating an Azure virtual network
 In this project I am going to learn to use Terraform in Azure. The reason for learning Terraform over ARM templates (or Bicep) is that Terraform can be used on other cloud platforms such as AWS and Google Cloud. I am following along with the [Azure Infrastructure with Terraform](https://www.youtube.com/playlist?list=PLLc2nQDXYMHowSZ4Lkq2jnZ0gsJL3ArAw) playlist from Alan Rodrigues. Thanks Alan.
 
 ## Project Table of Contents
