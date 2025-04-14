@@ -20,5 +20,9 @@ This is a follow along of Alan Rodrigues' project [Azure Infrastructure with Ter
   - [Part 12: Azure Infrastructure with Terraform - Lab - Creating an Azure virtual network](azure-terraform-project/Part-12-Azure-Infrastructure-with-Terraform-Lab-Creating-an-Azure-virtual-network.md)
   - [Part 13: Azure Infrastructure with Terraform - Lab - Creating an Azure virtual machine](azure-terraform-project/Part-13-Azure-Infrastructure-with-Terraform-Lab-Creating-an-Azure-virtual-machine.md)
   - [Part 14: Azure Infrastructure with Terraform - Quick note on accessing Azure resource properties](azure-terraform-project/Part-14-Azure-Infrastructure-with-Terraform-Quick-note-on-accessing-Azure-resource-properties.md)
+  - [Part 15: Azure Infrastructure with Terraform - Lab - Create Public IP Address](azure-terraform-project/Part-15-Azure-Infrastructure-with-Terraform-Lab-Create-Public-IP-Address.md)
+  - [Part 16: Azure Infrastructure with Terraform - Lab - Adding data disks](azure-terraform-project/Part-16-Azure-Infrastructure-with-Terraform-Lab-Adding-data-disks.md)
+  - [Part 17: Azure Infrastructure with Terraform - Lab - Availability Sets](azure-terraform-project/Part-17-Azure-Infrastructure-with-Terraform-Lab-Availability-Sets.md)
+  - [Part 18: Azure Infrastructure with Terraform - Lab- Custom Script extensions](azure-terraform-project/Part-18-Azure-Infrastructure-with-Terraform-Lab-Custom-Script-extensions.md)
 
 
